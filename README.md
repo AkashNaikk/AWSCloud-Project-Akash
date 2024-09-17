@@ -78,4 +78,5 @@ Data owner and Publisher: City of Vancouver
 The objects and folders within the bucket are created
 ![image](https://github.com/user-attachments/assets/e0241581-2217-4727-a598-6058db8b95cc)
 
-![image](https://github.com/user-attachments/assets/9225e7cd-63c1-43b5-97dd-0d97c923c6c8)
+![image](https://github.com/user-attachments/assets/86a30c75-3640-4695-8aa4-a3a04d612631)
+
