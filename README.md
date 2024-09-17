@@ -80,3 +80,16 @@ The objects and folders within the bucket are created
 
 ![image](https://github.com/user-attachments/assets/86a30c75-3640-4695-8aa4-a3a04d612631)
 
+**Review Data Quality**
+Duplicates: Eliminate duplicate records.
+Missing Values: Identify and handle any missing values in key columns.
+Filter rows: Remove rows that are not relevant to the analysis, such as permits that are
+not related to the construction.
+Data Errors: Correct any errors in the data, such as incorrect dates or outliers.
+![image](https://github.com/user-attachments/assets/bfbcbfe0-90e0-450c-8771-e3c7d12b1443)
+
+**ETL Pipeline**
+Data Source: S3 bucket
+Transformations: Change Schema, Aggregation, Dynamic Transform
+
+<img width="1191" alt="VotingETL" src="https://github.com/user-attachments/assets/3262dbb1-5db4-4304-aade-820baf43749a">
