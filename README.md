@@ -71,5 +71,11 @@ Validate the dataset by cross-checking with official city records and performing
 - Amazon API Gateway
 - Python
 
+Dataset Identifier: Council of Voting Records
+Data owner and Publisher: City of Vancouver
 ![image](https://github.com/user-attachments/assets/45f6559e-4299-4703-82ca-ca8342abe024)
 
+The objects and folders within the bucket are created
+![image](https://github.com/user-attachments/assets/e0241581-2217-4727-a598-6058db8b95cc)
+
+![image](https://github.com/user-attachments/assets/9225e7cd-63c1-43b5-97dd-0d97c923c6c8)
